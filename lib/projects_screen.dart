@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:flutter_todo/category/category_card.dart';
-import 'package:flutter_todo/circular_image.dart';
-import 'package:flutter_todo/data_provider.dart';
-import 'package:flutter_todo/detail/detail_screen.dart';
-import 'package:flutter_todo/detail_reveal.dart';
-import 'package:flutter_todo/model.dart';
+import 'package:todo_app/category/category_card.dart';
+import 'package:todo_app/circular_image.dart';
+import 'package:todo_app/data_provider.dart';
+import 'package:todo_app/detail/detail_screen.dart';
+import 'package:todo_app/detail_reveal.dart';
+import 'package:todo_app/model.dart';
 import 'package:snaplist/snaplist.dart';
 import 'package:intl/intl.dart';
 

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:flutter_todo/data_provider.dart';
-import 'package:flutter_todo/model.dart';
-import 'package:flutter_todo/projects_screen.dart';
+import 'package:todo_app/data_provider.dart';
+import 'package:todo_app/model.dart';
+import 'package:todo_app/projects_screen.dart';
 import 'package:redux/redux.dart';
 
 void main() {

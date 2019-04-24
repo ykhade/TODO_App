@@ -1,4 +1,4 @@
-import 'package:flutter_todo/model.dart';
+import 'package:todo_app/model.dart';
 
 class CategoryState {
   final List<Category> categories;

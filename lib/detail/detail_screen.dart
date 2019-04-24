@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:flutter_todo/create/create_screen.dart';
-import 'package:flutter_todo/data_provider.dart';
-import 'package:flutter_todo/list/list.dart';
-import 'package:flutter_todo/model.dart';
+import 'package:todo_app/create/create_screen.dart';
+import 'package:todo_app/data_provider.dart';
+import 'package:todo_app/list/list.dart';
+import 'package:todo_app/model.dart';
 
 class DetailScreen extends StatefulWidget {
   final Category category;

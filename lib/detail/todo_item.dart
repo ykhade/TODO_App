@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:flutter_todo/data_provider.dart';
-import 'package:flutter_todo/model.dart';
+import 'package:todo_app/data_provider.dart';
+import 'package:todo_app/model.dart';
 
 class TodoItem extends StatelessWidget {
   final Category category;

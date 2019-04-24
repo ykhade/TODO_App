@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:flutter_todo/category/category_icon.dart';
-import 'package:/category/category_info.dart';
-import 'package:flutter_todo/data_provider.dart';
-import 'package:flutter_todo/detail/todo_item.dart';
-import 'package:flutter_todo/model.dart';
 import 'package:todo_app/category/category_icon.dart';
+import 'package:todo_app/category/category_info.dart';
+import 'package:todo_app/data_provider.dart';
+import 'package:todo_app/detail/todo_item.dart';
+import 'package:todo_app/model.dart';
 
 class TaskList extends StatefulWidget {
   final Category category;
