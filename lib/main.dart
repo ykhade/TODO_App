@@ -29,7 +29,7 @@ class FlutterReduxApp extends StatelessWidget {
             primarySwatch: Colors.blue,
             textTheme: TextTheme(
               body1: TextStyle(color: Colors.white, fontSize: 28.0),
-              body2: TextStyle(color: Colors.white54, fontSize: 14.0),
+              body2: TextStyle(color: Colors.white54, fontSize: 14.5),
               display1: TextStyle(color: Colors.black87, fontSize: 36.0),
               caption: TextStyle(
                   color: Colors.white,
