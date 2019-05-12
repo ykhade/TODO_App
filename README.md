@@ -23,8 +23,8 @@ $ flutter run
 
 ## Built With
 
-* [Flutter](https://flutter.dev/) - The web framework used
-* [Dart](https://dart.dev/) - Dependency Management
+* [Flutter](https://flutter.dev/) - The hybrid framework used.
+* [Dart](https://dart.dev/) - The language Flutter is written in.
 
 ## Authors
 
