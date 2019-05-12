@@ -1,6 +1,9 @@
 # TODO-APP
 
-A Flutter framework application
+A Todo app that I built using the Flutter framework. 
+This was a challenge project I gave myself to learn Dart as well as the Flutter framework.
+Some challenges while building this app was understanding that widgets are the main way to build Flutter components.
+This was also the first mobile app that I have built using Flutter but I am impressed by the simplicity and performance.  
 
 
 
