@@ -32,6 +32,6 @@ $ flutter run
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 ## Acknowledgments
 * Inspired by Jae-Seong's Todo app [concept](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept)
